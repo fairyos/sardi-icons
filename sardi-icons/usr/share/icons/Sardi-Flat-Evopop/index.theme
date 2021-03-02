@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=Sardi Flat Evopop
+Comment=evopop icon theme
+Inherits=Sardi-Flat,Sardi,Numix-Circle,Numix,Papirus,Moka,Surfn,breeze,gnome,hicolor
+
+# Directory list
+Directories=scalable/places
+
+[scalable/places]
+Context=Places
+Size=48
+MinSize=16
+MaxSize=512
+Type=Scalable
